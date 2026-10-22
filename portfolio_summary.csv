@@ -1,0 +1,2 @@
+ticker,shares,buy_price,current_price,invested,market_value,gain_loss,percentage,price_source,retrieved_at
+AAPL,4.0,100.0,344.05,400.0,1376.22,976.22,244.05,Retrieved market data,2026-10-22T15:02:48
