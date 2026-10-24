@@ -34,6 +34,6 @@ Run the program:
 python portfolio.py
 
 
-## Author
+
 
 Tharushi Dewmini [DT-2026-3Y2VP]

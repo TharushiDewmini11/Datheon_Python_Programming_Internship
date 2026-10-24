@@ -27,6 +27,6 @@ A console-based Hangman game developed using Python.
 3. Open the terminal.
 4. Run 'python hangman.py'.
 
-## Author
+
 
 Tharushi Dewmini [DT-2026-3Y2VP]
