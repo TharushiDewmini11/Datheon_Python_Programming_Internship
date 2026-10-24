@@ -14,6 +14,9 @@ A console-based Hangman game developed using Python.
 - Victory and defeat messages
 - Option to play again
 
+## word list
+"https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt"
+
 ## Technologies Used
 - Python 3
 - Python Standard Library
@@ -22,7 +25,8 @@ A console-based Hangman game developed using Python.
 1. Install Python 3.
 2. Open the project folder in VS Code.
 3. Open the terminal.
-4. Run `python hangman.py`.
+4. Run 'python hangman.py'.
 
 ## Author
-Your Name
+
+Tharushi Dewmini [DT-2026-3Y2VP]
