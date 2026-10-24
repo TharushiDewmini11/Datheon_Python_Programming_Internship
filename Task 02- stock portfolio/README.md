@@ -10,6 +10,9 @@ A Python console application that tracks stock investments and calculates portfo
 - Calculates investment value and percentage returns.
 - Saves portfolio results to 'portfolio_summary.csv'. 
 
+## Name list of Tickers
+"AAPL", "MSFT", "NVDA", "AMZN", "GOOGL"
+
 ## Technologies
 - Python 3
 - CSV module
